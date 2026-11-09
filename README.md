@@ -32,8 +32,8 @@ Sans jargon, sans discours de gourou, avec méthode !
 ```text
 1. Réservez un café découverte de 20 minutes, offert :
    https://lunacal.ai/serieusement-coach/cafe-decouverte
-2. Choisissez votre environnement : au cabinet à Vertou, en marchant
-   au bord de la Sèvre, ou en visio partout en France.
+2. Choisissez votre environnement : au cabinet à Vertou,
+   ou en visio partout en France.
 3. C'est tout. Aucune dépendance à installer.
 ```
 

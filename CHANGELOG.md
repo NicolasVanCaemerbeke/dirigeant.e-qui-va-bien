@@ -36,8 +36,8 @@ Le format s'inspire de [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/).
 ## [2020]
 
 ### Ajouté
-- Certification Coaching Intuitif de l'Excellence® (Lunion).
-- Formation à l'approche systémique (Pax Academy).
+- Formation de coach professionnel niveau I, Coaching Intuitif de l'Excellence® (Lunion Formation).
+- Formation à l'approche systémique avec Pax Academy (2020 – 2022).
 - Mandat de conseiller municipal délégué à « La Ville Apaisée », à Vertou (2020 – 2026).
 
 ### Modifié
