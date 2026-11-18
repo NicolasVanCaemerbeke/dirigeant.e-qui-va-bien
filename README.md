@@ -52,7 +52,7 @@ Toutes les offres : [serieusement-coach.fr/offres](https://serieusement-coach.fr
 
 ## Problèmes connus
 
-Les « bugs » les plus fréquents chez les dirigeant.e.s sont documentés dans les [Issues](../../issues), chacun avec une piste de résolution.
+Les « bugs » les plus fréquents chez les dirigeant.e.s sont documentés dans les [Issues](https://github.com/NicolasVanCaemerbeke/dirigeant.e-qui-va-bien/issues?q=is%3Aissue), chacun avec une piste de résolution.
 
 Spoiler : **la plupart ne viennent pas d'un défaut de la personne.** Ils viennent d'un environnement qui demande beaucoup, et d'un poste où l'on reste seul.e à assumer ses décisions, même très bien entouré.e.
 
